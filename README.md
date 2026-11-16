@@ -2,7 +2,7 @@
 
 O site institucional do Grupo RAM, um grupo de Brasília com quatro empresas: RAM TI (suporte e infraestrutura), RAM Cyber (segurança digital), ClickFone (telefonia em nuvem) e RAM Solar (energia solar). Refeito sobre o sistema que já existia, com uma página para cada empresa, contato e política de privacidade.
 
-**No ar:** https://memoriaram.com.br
+**No ar:** [https://gruporam.com.br/](https://gruporam.com.br/)
 
 <p align="center"><img src="telas/inicio.png" alt="Início do site, com a torre de módulos de memória em 3D" width="720"></p>
 
