@@ -25,7 +25,7 @@ Quem chega com um problema não precisa saber qual empresa procura: a seção "Q
 - Uma cena só em Three.js, carregada depois da primeira pintura, com rolagem suave (Lenis) e animações em GSAP. Sem WebGL ou com movimento reduzido, o site continua inteiro, sem a cena.
 - No celular a cena vai para uma janela acima de cada bloco e monta pelo relógio, sem cobrir o texto.
 - Acessibilidade com nota 100 no Lighthouse em todas as páginas e política de privacidade seguindo a LGPD.
-- Fontes servidas do próprio site, sem passar pelo Google.
+
 
 ---
 
